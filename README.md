@@ -61,6 +61,7 @@
     <img src='pic/MySQL.png' width='49' title='MySQL'>
     <img src='pic/MSSS.png' width='49' title='Microsoft SQL Server'>
     <img src='pic/SqLite.png' width='49' title='SQLite'>
+    <img src='pic/Supabase.png' width='49' title='Supabase'>
     <img src='pic/MongoDb.png' width='49' title='MongoDB'>
     <img src='pic/Redis.png' width='49' title='Redis'>
     <img src='pic/MinIO.png' width='49' title='MinIO'>
@@ -86,12 +87,14 @@
     <img src='pic/MLflow.png' width='49' title='MLflow'>
     <img src='pic/SeldonCore.png' width='49' title='Seldon Core'>
     <img src='pic/Ollama.png' width='49' title='Ollama'>
+    <img src='pic/Groq.png' width='49' title='Groq'>
     <img src='pic/OpenWebUI.png' width='49' title='Open WebUI'>
     <img src='pic/ComfyUI.png' width='49' title='ComfyUI'>
     <img src='pic/Claude.png' width='49' title='Claude'>
     <img src='pic/Codex.png' width='49' title='Codex'>
     <img src='pic/Copilot.png' width='49' title='GitHub Copilot'>
     <img src='pic/Cursor.png' width='49' title='Cursor'>
+    <img src='pic/Cline.png' width='49' title='Cline'>
     <!-- DevOps / Containers / Orchestration -->
     <img src='pic/Docker.png' width='49' title='Docker'>
     <img src='pic/DockerCompose.png' width='49' title='Docker Compose'>
